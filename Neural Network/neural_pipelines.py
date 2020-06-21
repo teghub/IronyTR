@@ -2,22 +2,17 @@ from keras.layers.embeddings import Embedding
 from sklearn.model_selection import KFold
 from keras.preprocessing import sequence
 from keras.preprocessing import text
-from keras.models import load_model
 from keras.models import Sequential
-from keras import backend as K
-from keras import regularizers
 from keras.layers import Dense
 from keras.layers import LSTM
 
 import keras.metrics as metrics
 import keras.layers as layers
-import tensorflow as tf
 import fasttext.util
 import pandas as pd
 import numpy as np
 import fasttext
 import keras
-import os
 
 np.random.seed(7)
 fasttext.util.download_model('tr', if_exists='ignore')
