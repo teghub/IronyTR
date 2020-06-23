@@ -70,8 +70,7 @@ def CalculateMetrics(testLabels, predictions):
 
     return [accuracy, precision, recall, f1Score]
 
-def SetUpLSTM():
-    numberOfEpochs = 5
+def SetUpLSTM(numberOfEpochs, numberOfLstmNodes):
     ironicSentences = np.load("ironic_600.npy")
     nonIronicSentences = np.load("non_ironic_600.npy")
     trainingSentences = np.concatenate((ironicSentences, nonIronicSentences))
@@ -138,18 +137,21 @@ def SetUpLSTM():
         embeddingLayerInput = keras.Input(shape = (maximumLengthOfSentence, ), name = 'embeddingInput')
         additionalFeaturesInput = keras.Input(shape=(21, ), name='additionalFeatures')
         embeddingLayer = Embedding(sizeOfVocabulary, matrixSize, weights=[embeddingMatrix], input_length=maximumLengthOfSentence, trainable=True)
-        LSTMLayer = LSTM(128)
+        LSTMLayer = LSTM(numberOfLstmNodes)
         denseLayer1 = Dense(100,  activation='relu')
-        denseLayer2 = Dense(1,  activation='relu')
+        denseLayer2 = Dense(10,  activation='relu')
+        denseLayer3 = Dense(1,  activation='relu')
         
-        temporaryOutput = embeddingLayer(embeddingLayerInput)
-        lstmOutput = LSTMLayer(temporaryOutput)
+        embeddingOutput = embeddingLayer(embeddingLayerInput)
+        lstmOutput = LSTMLayer(embeddingOutput)
         concatenatedOutput = layers.Concatenate()([lstmOutput, additionalFeaturesInput])
         denseOutput = denseLayer1(concatenatedOutput)
-        output = denseLayer2(denseOutput)
+        denseOutput = denseLayer2(denseOutput)
+        output = denseLayer3(denseOutput)
 
         model = keras.Model(inputs = [embeddingLayerInput, additionalFeaturesInput], outputs = output)
         model.compile(loss = 'binary_crossentropy', optimizer = 'adam', metrics = ['accuracy'])
+        print(model.summary())
 
         outputOfModel = model.fit({"embeddingInput": trainData, "additionalFeatures": additionalFeaturesTrain}, trainLabels, epochs = numberOfEpochs)
         predictions = model.predict({"embeddingInput": validationData, "additionalFeatures": additionalFeaturesValidation}).flatten()
@@ -161,8 +163,7 @@ def SetUpLSTM():
         
     print("10-Fold Averages: ", *map(FindMean, zip(*folds)))
 
-def SetUpBiLSTM():
-    numberOfEpochs = 3
+def SetUpBiLSTM(numberOfEpochs, numberOfLstmNodes):
     ironicSentences = np.load("ironic_600.npy")
     nonIronicSentences = np.load("non_ironic_600.npy")
     trainingSentences = np.concatenate((ironicSentences, nonIronicSentences))
@@ -229,18 +230,21 @@ def SetUpBiLSTM():
         embeddingLayerInput = keras.Input(shape = (maximumLengthOfSentence, ), name = 'embeddingInput')
         additionalFeaturesInput = keras.Input(shape=(21, ), name='additionalFeatures')
         embeddingLayer = Embedding(sizeOfVocabulary, matrixSize, weights=[embeddingMatrix], input_length=maximumLengthOfSentence, trainable=True)
-        LSTMLayer = layers.Bidirectional(LSTM(128))
+        LSTMLayer = layers.Bidirectional(LSTM(numberOfLstmNodes))
         denseLayer1 = Dense(100,  activation='relu')
-        denseLayer2 = Dense(1,  activation='relu')
+        denseLayer2 = Dense(10,  activation='relu')
+        denseLayer3 = Dense(1,  activation='relu')
         
-        temporaryOutput = embeddingLayer(embeddingLayerInput)
-        lstmOutput = LSTMLayer(temporaryOutput)
+        embeddingOutput = embeddingLayer(embeddingLayerInput)
+        lstmOutput = LSTMLayer(embeddingOutput)
         concatenatedOutput = layers.Concatenate()([lstmOutput, additionalFeaturesInput])
         denseOutput = denseLayer1(concatenatedOutput)
-        output = denseLayer2(denseOutput)
+        #denseOutput = denseLayer2(denseOutput)
+        output = denseLayer3(denseOutput)
 
         model = keras.Model(inputs = [embeddingLayerInput, additionalFeaturesInput], outputs = output)
         model.compile(loss = 'binary_crossentropy', optimizer = 'adam', metrics = ['accuracy'])
+        print(model.summary())
 
         outputOfModel = model.fit({"embeddingInput": trainData, "additionalFeatures": additionalFeaturesTrain}, trainLabels, epochs = numberOfEpochs)
         predictions = model.predict({"embeddingInput": validationData, "additionalFeatures": additionalFeaturesValidation}).flatten()
@@ -252,8 +256,7 @@ def SetUpBiLSTM():
         
     print("10-Fold Averages: ", *map(FindMean, zip(*folds)))
 
-def SetUpCnnLSTM():
-    numberOfEpochs = 5
+def SetUpCnnLSTM(numberOfEpochs, numberOfKernels, kernelSize, stride):
     ironicSentences = np.load("ironic_600.npy")
     nonIronicSentences = np.load("non_ironic_600.npy")
     trainingSentences = np.concatenate((ironicSentences, nonIronicSentences))
@@ -320,19 +323,22 @@ def SetUpCnnLSTM():
         embeddingLayerInput = keras.Input(shape = (maximumLengthOfSentence, ), name = 'embeddingInput')
         additionalFeaturesInput = keras.Input(shape=(21, ), name='additionalFeatures')
         embeddingLayer = Embedding(sizeOfVocabulary, matrixSize, weights=[embeddingMatrix], input_length=maximumLengthOfSentence, trainable=True)
-        convolutionalLayer = layers.Conv1D(64, 5, strides=1, padding='valid')
-        LSTMLayer = LSTM(1*6*1*64)
+        convolutionalLayer = layers.Conv1D(numberOfKernels, kernelSize, strides=stride, padding='valid')
+        LSTMLayer = LSTM(1*(kernelSize+1)*1*numberOfKernels)
         denseLayer1 = Dense(100,  activation='relu')
-        denseLayer2 = Dense(1,  activation='relu')
+        denseLayer2 = Dense(10,  activation='relu')
+        denseLayer3 = Dense(1,  activation='relu')
         
-        temporaryOutput = embeddingLayer(embeddingLayerInput)
-        lstmOutput = LSTMLayer(temporaryOutput)
+        embeddingOutput = embeddingLayer(embeddingLayerInput)
+        lstmOutput = LSTMLayer(embeddingOutput)
         concatenatedOutput = layers.Concatenate()([lstmOutput, additionalFeaturesInput])
         denseOutput = denseLayer1(concatenatedOutput)
-        output = denseLayer2(denseOutput)
+        denseOutput = denseLayer2(denseOutput)
+        output = denseLayer3(denseOutput)
 
         model = keras.Model(inputs = [embeddingLayerInput, additionalFeaturesInput], outputs = output)
         model.compile(loss = 'binary_crossentropy', optimizer = 'adam', metrics = ['accuracy'])
+        print(model.summary())
 
         outputOfModel = model.fit({"embeddingInput": trainData, "additionalFeatures": additionalFeaturesTrain}, trainLabels, epochs = numberOfEpochs)
         predictions = model.predict({"embeddingInput": validationData, "additionalFeatures": additionalFeaturesValidation}).flatten()
@@ -345,5 +351,5 @@ def SetUpCnnLSTM():
     print("10-Fold Averages: ", *map(FindMean, zip(*folds)))
 
 if __name__ == "__main__":
-    SetUpCnnLSTM()
+    SetUpCnnLSTM(5, 128, 6, 1)
     
