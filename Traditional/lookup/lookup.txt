@@ -1,0 +1,2734 @@
+:'( -0.900
+:( -0.400
+:(( -0.600
+:((( -0.800
+:) 0.400
+:)) 0.600
+:))))) 0.800
+:/ -0.200
+:\'( -0.900
+:O -0.200
+abartmak -0.4
+abartı -0.4
+abartılı -0.4
+abartısız 0.4
+abdest -0.89 ablution
+abes -0.4
+absurd -0.4
+absürd -0.4
+abuk -0.4
+abuk-sabuk -0.4
+acemi -0.4
+acemilik -0.4
+acil 0.091 urgent 0.091
+aciz -0.4
+acizlik -0.4
+acı -0.4
+acı-çekmek -0.8
+acıklı -0.6
+acıma -0.4
+acımak -0.4
+acımasız -0.6
+acıyan -0.4
+ad-yetmek 0.6
+adam -0.07 man
+adamak 0.6
+adi -0.4
+adil 0.4
+adım 0.082 step
+af 0.4
+afakan -0.4
+aferin 0.853 well_done
+ahmak -0.6
+aile 0.094 family
+akademi 0.923 academia
+akademik -0.79 academic
+akaryakıt 0.86 fuel_oil
+akraba 0.825 relative 0.825
+aksak -0.6
+aksaklık -0.6
+aksi -0.78 contrary -0.79 opposite -0.77
+aksilik -0.86 mishap
+aktif 0.065 active
+aktivite 0.09 activity 0.09
+akıcı 0.4
+akıcılık 0.4
+akıl 0.054 mind
+akıl-kazımak 0.4
+akılcı 0.4
+akıllı 0.4
+akılsız -0.8899999999999999 fool -0.83 stupid -0.93 dumb -0.83 idiot -0.97
+akım 0.0935 current 0.067 trend 0.12
+akşam -0.72 night -0.72
+alakasız -0.4
+alan 0.069 place 0.069
+alarm -0.81
+alay -0.4
+alaycı -0.4
+aldanmak -0.4
+aldatma -0.4
+aldatıcı -0.4
+alerji -0.87 allergy -0.87
+alet 0.858 tool
+algılamak 0.041 recognize
+algılamamak -0.041
+alkol 0.061 alcohol
+alkış 0.4
+alkışlamak 0.4
+allah 0.8474999999999999 allah 0.831 god 0.864
+allah-kahretmek -0.6
+almak 0.102 take
+almamak -0.102
+alt -0.31 down
+altüst -0.4
+altın 0.8 gold
+alyans 0.071 wedding_ring
+alzheimer -0.76 alzheimer
+alçak -0.4
+alçaklık -0.4
+alçakça -0.4
+alın 0.943 forehead 0.943
+alınmak -0.86 offend -0.86
+amaç 0.505 aim 0.878 goal 0.132
+amaçsız -0.4
+ambulans -0.14 ambulance -0.14
+amca 0.758 uncle 0.758
+amerika 0.816 america
+amfi 0.811 lecture_hall
+amir 0.773 chief
+amk -0.6
+ampute -0.85 amputated
+amq -0.6
+an 0.859 moment
+anadil -0.95 native_language -0.95
+anadolu -0.77 anatolia
+anahtar 0.767 key
+ananas 0.028 pineapple 0.028
+android 0.061 operating_system_android
+ani -0.78 sudden -0.78
+animasyon 0.823 animation
+anket 0.09 poll
+anksiyete -0.33 anxiety -0.33
+anlam 0.926 meaning
+anlamak 0.103 understand
+anlamamak -0.103
+anlamlı 0.4
+anlamsız -0.4
+anlatmak 0.163 explaination
+anlatmamak -0.163
+anlayışsız -0.4
+anlaşmak 0.86 understand_each_other
+anlaşmamak -0.86
+anlaşılmak 0.86 understand_each_other
+anlaşılır 0.2
+anmak 0.842 remember
+anne 0.50 mom 0.877 mother 0.043
+anormal -0.4
+antartika -0.96 antarctica
+anti-sosyal -0.4
+antibiyotik 0.705 antibiotic_drug
+antidepresan 0.89 anti_depressive
+antipati -0.4
+anıt 0.816 monument
+apne -0.03 apnea
+apple 0.45 apple_iphone 0.881 apple_itunes_store 0.038
+aptal -0.4
+ara 0.50 take_break 0.139 break -0.03
+araba 0.778 car
+arama 0.045 search
+aramak 0.10 search 0.045 call 0.141
+araç 0.40 tool 0.858 vehicle -0.07
+araştırma 0.882 research
+araştırmacı 0.854 researcher
+araştırmak 0.606 conduct_research
+arka 0.823 back
+arkadaş 0.4
+aroma 0.968 aroma
+artmak 0.168 increase
+arttırmak 0.168 increase
+artı 0.201 plus
+artık -0.20 excess -0.72 surplus -0.76 now_time 0.912
+arz 0.767 supply
+arzu 0.8
+arzulan 0.8
+arşiv 0.095 archive
+asgari -0.73 minimum
+asi -0.4
+asker -0.09 soldier
+askerlik 0.806 military_service
+asla -0.2
+aslında -0.76 actually
+astroloji 0.027 astrology 0.027
+at 0.071 horse
+ata -0.90 ancestor
+atamak 0.752 assign
+ateist 0.943 atheist
+atlet 0.906 athlete
+atmak 0.919 throw
+atmamak -0.919
+avcı -0.4
+avla -0.4
+avm 0.855 mall 0.855
+ay 0.929 moon
+ayak 0.082 foot
+ayakta 0.88 standing
+ayarlamak 0.114 adjust 0.114
+aydınlanmak 0.84 enlightenment 0.84
+aydınlık 0.346 lightness
+aykırı -0.4
+aynı 0.16 same 0.16
+ayrıcalık 0.4
+ayrılmak 0.948 split 0.948
+ayrıntı 0.166 detail
+ayrıntılı 0.877 detailed
+ayrışmak -0.88 differentiate
+ayıp -0.6
+az -0.72 less
+azalmak -0.06 decrease
+azaltmak -0.06 reduce
+azarlamak -0.87 yell
+azim 0.037 effort
+aç -0.4
+açlık -0.72 hunger -0.72
+açmak 0.039 open
+açı 0.943 angle
+açık 0.039 open 0.039
+açıklama 0.163 explaination
+açıklamak 0.039 explain
+açılmak 0.039 open
+ağaç 0.856 tree 0.856
+ağlamak -0.8
+ağlatan -0.8
+ağrı -0.86 pain -0.86
+ağrımak -0.74 ache -0.74
+ağırbaşlı 0.4
+ağırlık 0.875 weight
+ağız 0.897 mouth
+ağız-açık-kalmak 0.6
+aşağı -0.31 down -0.31
+aşağıla -0.8
+aşağılık -0.4
+aşk 0.6
+aşmak 0.881 overcome
+aşı -0.10 vaccine -0.10
+aşık 0.8
+aşırı -0.4
+b*k -0.6
+b*ktan -0.6
+baba 0.50 father 0.043 dad 0.846
+bacak 0.06 leg
+bahane -0.05 excuse -0.05
+bahar -0.06 spring -0.06
+bahsetmek 0.123 mention
+bahşiş 0.109 tip
+bakan 0.111 minister
+bakmak 0.061 look
+bakmamak -0.061
+bakteri 0.805 bacteria
+bakım 0.432 care 0.784 maintenance 0.08
+bakış 0.061 look 0.061
+bakış-açısı -0.09 point_of_view
+bale 0.09 ballet
+balkon 0.045 balcony 0.045
+bambaşka 0.4
+banal -0.4
+bank 0.036 bench
+banka 0.103 bank
+banknot 0.786 banknote
+banyo 0.106 bathroom
+bardak 0.039 glass
+barista 0.883 bartender
+barış 0.2
+basit -0.4
+basketbol 0.784 basketball
+baskı -0.4
+baskın 0.8474999999999999 dominant 0.866 superior 0.829
+basmak 0.082 step
+basın 0.807 press
+batı -0.84 west
+batırma -0.6
+batırmak -0.04 sink
+baya 0.2
+bayat -0.6
+bayağı -0.4
+baygınlık -0.6
+baymak -0.4
+bayrak 0.032 flag
+bayık -0.4
+bayılmak 0.6
+bayıltıcı -0.6
+baz 0.089 base
+bazen -0.2
+bazı -0.03 several
+bağlanmak 0.068 connect
+bağlantı 0.069 connection
+bağımlı -0.4
+bağımlı -0.55 addicted -0.24 dependent -0.87
+bağımlılık -0.85 addiction -0.85
+bağırmak -0.83 yell -0.87 shout -0.82 scream -0.80
+bağırsak 0.055 intestine
+bağışlamak 0.326 forgive
+baş -0.71 head
+başarmak 0.6
+başarı 0.6
+başarılı 0.6
+başarısız -0.6
+başbakan 0.074 prime_minister
+başkan 0.79 president
+başlamak 0.08 start
+başlamamak -0.08
+başvurmak 0.086 apply
+başyapıt 0.6
+bebek 0.4
+beceri 0.4
+becerikli 0.4
+beceriksiz -0.6
+bedelli 0.702 paid
+bekaret 0.788 virginity
+beklemek -0.05 wait
+beklenmedik -0.4
+bekletilmek -0.05 wait
+bekletmek -0.05 wait
+bekçi 0.055 guard 0.055
+bela -0.4
+belediye 0.081 city_hall 0.081
+belirlemek 0.122 identify
+belirmek 0.943 appear 0.943
+belirtmek 0.846 specify 0.927 declare 0.766
+belki -0.76 maybe
+belli -0.11 obviously 0.787 obvious -0.95
+bencil -0.8
+benimsemek 0.81 internalize 0.791 embrace 0.834
+benzemek 0.165 resemble
+benzinlik 0.026 gas_station 0.026
+beraat -0.79 acquitted
+beraber 0.122 together
+beraberlik 0.6
+berbat -0.8
+besin 0.054 food
+beste 0.034 composition 0.034
+beton 0.92 concrete 0.092 cement_concrete 0.092
+beyaz -0.54 white
+beyin 0.757 brain
+bezgin -0.4
+bezme -0.4
+beğeni 0.4
+beğenmek 0.4
+biber -0.89 pepper
+biftek 0.823 steak
+bikini 0.773 bikini 0.773 bikini 0.773
+bildirmek 0.752 inform
+bilet 0.895 ticket
+bilgi 0.847 information
+bilgisayar 0.07 computer
+bilim 0.713 science
+biliminsan 0.084 scientist
+biliminsanı 0.084 scientist 0.084
+bilinçlendirmek 0.103 raise_awareness_among
+bilmek 0.103 know
+bilmemek -0.103
+bina 0.107 building
+biplemek -0.02 beep
+bira 0.968 beer 0.968
+biraz -0.84 a_little -0.84
+birikinti -0.03 puddle
+birikmek 0.087 accumulate
+biriktirmek 0.4395 save 0.112 collect 0.767
+birim 0.048 unit
+birinci 0.157 first
+birkaç -0.03 several
+birleşmek 0.09 unite 0.064 come_together 0.114
+birlik 0.121 unity 0.121
+birlikte 0.6
+birliktelik 0.6
+bisiklet 0.786 bicycle 0.786
+bitirmek 0.1 finish
+bitirmemek -0.1
+bitki 0.869 flower_plant
+bitmek 0.1 finish
+bitmemek -0.1
+biyokimyager 0.854 biochemist
+blok 0.51 block 0.943 bloc 0.183
+bomba -0.4
+bomba-haber 0.4
+bomba-olmak 0.6
+bomboş -0.4
+borsa 0.137 stock_market
+borç -0.87 debt
+boy 0.45 length 0.833 size 0.056
+boya -0.07 paint -0.07
+boyamak -0.07 paint -0.07
+boykot -0.87 boycott
+boyunca 0.136 throughout 0.136
+boyut 0.50 dimension 0.943 size 0.056
+bozgun -0.6
+bozkır 0.055 steppe 0.055
+bozma -0.4
+bozucu -0.4
+bozuk -0.4
+bozul -0.4
+boğucu -0.4
+boş -0.4
+boşanmak -0.73 divorce -0.73
+bravo 0.6
+brexit -0.83 brexit
+brokoli -0.02 broccoli
+budala -0.4
+bugün 0.761 today
+bulanık -0.4
+bulaşmak -0.84 infect
+bulaşmamak 0.84
+bulaşmamak 0.84 not-infect
+bulaşıcı -0.71 contagious
+bulgu 0.003 symptom -0.08 evidence 0.086
+bulmak -0.81 find
+bulmamak 0.81
+bulunmak 0.913 exist
+bulunmamak -0.913
+buluşmak 0.768 meet 0.768
+bunalma -0.6
+bunalmak -0.58 swelter -0.85 sick_of -0.31
+bunalt -0.6
+bunalım -0.6
+burslu 0.863 scholarship_recipient
+buruk -0.4
+burun 0.104 nose 0.104
+burç 0.069 sign 0.069
+buz -0.88 ice
+buzdolabı 0.072 fridge
+böbrek 0.032 kidney 0.032
+böcek -0.035 bug -0.03 insect -0.04
+bölge 0.043 region
+bölüm 0.85 episode 0.827 part 0.873
+böö -0.6
+büro 0.054 office
+bütün 0.793 whole
+büyü 0.41 spell -0.04 magic 0.873
+büyük 0.60 great 0.857 huge 0.815 big 0.075
+büyükşehir 0.060 cosmopolitan_city 0.037 large_city 0.081 big_city 0.081
+büyüle 0.4
+büyümek 0.106 grow
+bık -0.4
+bırakmak 0.094 leave
+cadde 0.002 street 0.032 avenue -0.03
+caiz 0.79 permissible
+cam 0.039 glass
+can 0.933 life 0.933
+can-sıkmak -0.4
+canavar -0.4
+canlandır 0.6
+canlı 0.4
+canım 0.6
+cazibe 0.4
+cd 0.734 cd
+cebir 0.943 algebra 0.943
+cehennem -0.06 hell
+cehennem -0.4
+ceket 0.132 jacket
+cennet 0.4
+ceo 0.045 ceo
+cep 0.092 pocket 0.092
+cephe -0.3115 front -0.67 facade 0.047
+cesaret 0.6
+cesur 0.6
+cevap 0.886 answer
+ceza -0.4
+cezbedici 0.4
+cezbetme 0.4
+cici 0.6
+cicim 0.6
+cidden 0.778 really
+ciddi -0.4
+ciddiyetsiz -0.4
+cihaz 0.08 device
+cimri -0.68 stingy
+cin 0.756 spirit 0.756
+cinayet -0.8
+civar 0.115 around
+coca-cola 0.078 coke
+coşku 0.6
+cumhuriyet 0.067 republic
+cümle 0.083 sentence
+cılız -0.4
+cıvık -0.4
+cıvıl 0.4
+dahi 0.678 genius
+dahice 0.4
+dahil 0.879 including
+dahiyane 0.4
+daima 0.093 forever 0.093
+daire 0.50 circle 0.943 apartment 0.069
+dakika 0.093 minute
+dalga 0.055 wave
+damla 0.037 droplet
+dandik -0.4
+dar -0.4
+daral -0.4
+darbe -0.77 coup -0.72 hit -0.85
+darwin 0.054
+dava -0.85 lawsuit
+davet 0.045 invite
+davranmak 0.784 behave 0.784
+davranış 0.822 behavior
+dayak -0.2
+dayanmak 0.075 put_up 0.048 handle 0.095
+dayanmamak -0.075
+dayı 0.758 uncle 0.758
+dağ 0.147 mountain
+dağınık -0.4
+dağıtmak 0.079 distribute
+dede 0.40800000000000003 grandpa 0.76 grandfather 0.056
+dedikodu -0.4
+defol -0.6
+defter 0.054 notebook 0.054
+deha 0.4
+dehşet -0.8
+delhi 0.085 delhi_mumbai
+deli -0.4
+delice 0.4
+delirmek -0.12 go_crazy -0.12
+demek 0.614 say
+dememek -0.614
+demokrasi 0.044 democracy 0.044
+demokratik 0.122 democratic
+denemek 0.034 try
+deney 0.017 experiment
+denge 0.4
+dengesiz -0.4
+deniz 0.064 sea
+denk 0.06 equivalence 0.865 equivalent -0.73
+denk-gelmek -0.01 come_across -0.87 encounter 0.845
+depolamak 0.669 store
+deprem -0.45 earthquake
+depresif -0.8
+derbi 0.055 big_game
+derece -0.68 degree -0.68
+dergi 0.071 magazine
+deri 0.069 leather
+derin 0.071 deep
+ders -0.35 lecture 0.137 course -0.83
+dert -0.4
+dertlenmek -0.4
+destek 0.4
+destek-olmak 0.4
+destekle 0.4
+desteklemek 0.12 support 0.12
+dev 0.815 huge
+devam 0.113 continue
+devir 0.114 era 0.114
+devirmek -0.73 take_down
+devlet 0.093 government
+devretmek 0.074 transfer
+devrilmek -0.82 fall_over
+dezenfeksiyon -0.78 disinfection
+değer 0.4
+değerli 0.6
+değersiz -0.8
+değişim 0.77 changing
+değişmek 0.77 changing
+değişmemek -0.77
+değiştirmek 0.43 changing 0.77 swap 0.103
+dijital -0.04 digital
+dik 0.02699999999999997 straight 0.844 perpendicular -0.79
+dikkatli 0.087 careful
+dikkatsiz -0.4
+diktatör -0.72 dictator
+dil 0.08 language 0.115 tounge 0.05
+dilekçe 0.074 petition
+dilemek 0.812 wish
+dilenmek -0.84 beg
+dilimlemek -0.04 slice -0.04
+din 0.871 religion
+dinamik 0.4
+dingin 0.4
+dinlemek 0.11 listen
+dinozor -0.89 dinosaur
+dip 0.827 bottom
+dip-yapmak -0.89 crashed_heavily
+direkt 0.801 directly
+direnmek 0.028 resist
+direnç -0.81 resistance
+diyanet 0.804 religious
+diyet -0.81 diet
+dizi -0.06 tv_series
+diş 0.029 tooth
+diş-fırça 0.075 toothbrush 0.075
+dişçi -0.14 dentist -0.14
+doktor -0.09 medical_doctor
+dokunaklı -0.6
+dokunmak 0.812 touch
+dokunmamak -0.812
+dolap 0.072 wardrobe_closet
+dolar 0.077 dollar
+doldurmak 0.073 fill
+dolmak 0.073 fill   
+dolu 0.208 full 0.208
+donakal -0.8
+donmak -0.7 freeze
+donuk -0.4
+dost 0.4
+dostca 0.4
+dostluk 0.4
+dostça 0.4
+dosya 0.073 file
+doyum 0.783 satiety
+doyumsuz -0.4
+doyur 0.4
+doğa 0.059 nature
+doğal 0.043 natural 0.043
+doğru 0.4
+doğru-dürüst 0.2
+doğu 0.126 east 0.126
+doğum 0.95 birth
+doğumgünü 0.871 birthday 0.871
+doğuştan 0.05 inherently 0.906 inborn -0.79
+dram 0.2
+dramatik -0.4
+durağan -0.4
+durdurmak -0.86 stop
+durdurmamak 0.86
+durgun -0.4
+durmak -0.86 stop
+durmamak 0.86
+duru 0.4
+durum 0.42 situation 0.783 status 0.071
+duruş 0.76 stance
+duyarlı 0.6
+duyarlılık -0.66 sensitivity -0.66
+duyarsız -0.4
+duygusal 0.8
+duygusuz -0.8
+duymak 0.097 hear
+duymamak -0.097
+duyurmak -0.89 announce -0.89
+duyurmamak 0.89 announce
+dökmek -0.07 spill
+dönem 0.114 era
+dönmek 0.12 rotate 0.13 return 0.107
+dönüşmek 0.087 transform
+dört-dört 0.8
+döviz 0.099 currency
+düello -0.07 duel
+dükkan 0.669 store 0.669
+dün -0.95 yesterday
+dünya 0.42 earth 0.042 world 0.816
+dürüst 0.2
+düz 0.103 plain 0.103
+düzelme 0.4
+düzelmek 0.897 improve
+düzeltme 0.4
+düzen 0.152 order
+düzenbaz -0.4
+düzenlemek 0.45 organize 0.073 edit 0.857
+düzenli 0.926 tidy 0.926
+düzensiz -0.4
+düzeysiz -0.4
+düğün 0.2
+düğün 0.837 wedding
+düş-kırıklık -0.4
+düşkün -0.4
+düşman -0.4
+düşmanca -0.6
+düşmek -0.31 fall
+düşmek -0.4
+düşmemek 0.4
+düşük -0.4
+düşünce 0.778 thought
+düşünceli 0.4
+düşündür -0.4
+düşünmek 0.789 think
+düşünmemek -0.789
+düşürme -0.4
+düşürmek -0.4
+düşürmemek 0.4
+düşüş -0.4
+dışarı -0.73 out -0.70 outside -0.76
+ebeveyn 0.897 parent 0.897
+edebi 0.985 literary 0.985
+edinmek 0.713 have
+efendi 0.065 sir
+efsane 0.6
+efsanevi 0.6
+egzersiz 0.024 exercise
+ehliyet 0.753 driver_license
+ek 0.208 additional 0.208
+ekip 0.957 team
+eklemek 0.095 add
+ekonomi 0.15 economy 0.12 economics 0.213
+ekonomik 0.836 economic
+eksi -0.4
+eksik -0.4
+eksiklik -0.4
+eksiksiz 0.4
+el 0.72 hand 0.67 round 0.902
+elbette 0.2
+elde-değil 0.2
+eldiven 0.675 glove
+ele-geçirmek 0.2535 capture 0.341 take_over 0.166
+elektrik 0.942 electricity
+elektronik -0.04 electronic -0.04
+eleman 0.04 employee
+eleştiri -0.4
+eleştirmek -0.4
+eleştirmemek 0.4
+elf -0.04 elf
+elma 0.115 apple
+elmas 0.037 diamond
+emanet 0.09 lend 0.06 deposit 0.13
+emin 0.4
+en 0.2
+en-kötü -0.6
+enayi -0.84 moron -0.84
+ender 0.4
+endişe -0.8
+enerji -0.85 energy
+enerjik 0.4
+enfes 0.6
+enflasyon 0.883 inflation
+engel -0.4
+engelle -0.4
+engellemek -0.4
+engellememek 0.4
+engelli -0.85 disabled
+entrika -0.4
+erdem 0.6
+erimek -0.92
+erimek 0.476 melt 0.899 thaw 0.052
+erimemek 0.92
+erişim 0.764 access
+erkek 0.85 male
+erken 0.071 early
+esaret -0.6
+eser 0.909 piece
+esir -0.6
+eski -0.77 old
+esnaf 0.059 tradesman
+esnek 0.045 flexible
+espiri 0.6
+espri 0.6
+esrarengiz -0.4
+estetik 0.68 aesthetic 0.738 aesthetic_surgery 0.633
+et 0.828 meat
+etek 0.034 skirt
+etki -0.79 effect
+etkileme 0.4
+etkilemek 0.848 affect
+etkilememek -0.848
+etkilen 0.4
+etkilenmek 0.77 affect 0.848 impressed 0.714
+etkileyici 0.4
+etkili 0.4
+etkin 0.44 active 0.065 effective 0.778
+etkinlik 0.776 event
+etkisiz -0.4
+etraf -0.91 surroundings
+euro 0.808 euro
+ev 0.44 home 0.069 house 0.82
+ev-yapımı -0.78 homemade -0.78
+evet 0.785 yes
+evlat 0.052 children
+evlenmek 0.916 marry
+evlilik 0.857 marriage 0.857
+evrim 0.135 evolution
+ezberletmek 0.042 memorization
+eziyet -1.0
+ezmek -0.4
+eğitim 0.358 education 0.358
+eğlen 0.6
+eğlence 0.858 fun 0.858
+eğlenmek 0.6
+eş 0.11 spouse
+eşit 0.105 equal
+eşkiya -0.4
+eşsiz 0.6
+eşya 0.054 goods
+faaliyet 0.09 activity
+fabrika 0.121 factory
+facia -0.8
+fail -0.87 fail -0.87 fail -0.87
+faiz 0.899 interest_rate
+fakir -0.38 poor
+falcı 0.079 fortune_teller
+fanatik -0.4
+fantastik 0.6
+fark -0.16 difference
+fark-etmek 0.033 realize 0.033
+fark-etmemek -0.033
+farklı -0.4
+favori 0.4
+fayda 0.153 benefit
+faydal 0.4
+fazilet 0.6
+fazla 0.258 a_lot
+faşist -0.4
+feci -0.8
+felaket -0.18 disaster -0.18
+felaket -0.4
+felç -0.47 stroke -0.83 paralysis -0.11
+fena -0.4
+feryat -0.8
+fesat -0.8
+fetva 0.136 sermon 0.136
+fikir 0.062 idea
+film 0.837 movie
+filtre 0.069 filter
+final 0.046 final
+fiske -0.70 flick
+fiyasko -0.4
+fiyat 0.104 price
+focus 0.115 focus
+ford 0.055 ford
+form 0.092 form
+forma 0.084 uniform
+foseptik -0.03 sewer
+fotoğraf 0.051 photograph
+fuck -0.6
+futbol 0.848 soccer
+füze -0.82 missile
+fırlamak -0.77 burst
+fırlamamak 0.77 burst
+gaddar -0.6
+galaksi 0.776 galaxy
+galibiyet 0.4
+galip 0.4
+garanti 0.841 guarantee
+garip -0.87 weird -0.87
+gasp -0.87 mobbing
+gaz 0.943 gas
+gazete 0.036 newspaper
+gece -0.72 night
+gece-yarısı -0.72 midnight -0.72
+gelecek -0.94 future -0.94
+gelen 0.818 coming
+gelişmek 0.897 improve
+gelişmiş 0.781 advanced 0.781
+geliştirmek 0.897 improve
+gelmek 0.084 come
+gelmemek -0.084
+gemi 0.029 ship
+genetik 0.773 genetic_code
+genişletmek 0.826 broaden
+genç 0.884 young
+gençlik 0.811 youth 0.811
+gerdek -0.65 bridal_chamber -0.65
+gerek 0.33 necessary 0.12 need 0.864 necessity 0.092
+gereken 0.4
+gerekmek 0.33 necessary 0.12 need 0.864 necessity 0.092
+gerekmemek -0.33
+gereksiz -0.4
+geri 0.02 back 0.823 backward -0.78 backwards 0.12
+gerilemek -0.80 degrade
+gerilim 0.4
+gerilme -0.4
+gerizekalı -0.6
+gerçek 0.4
+gerçekten 0.2
+gerçekçi 0.4
+getirmek 0.121 bring
+getirmemek -0.121
+gezi 0.07 travel 0.097 trip_abroad 0.032
+gezmek 0.097 travel
+gezmemek -0.097
+geç -0.03 late
+geçen 0.819 pass
+geçici 0.103 temporary
+geçilmek -0.86 skipped
+geçiş 0.109 passage 0.109
+geçmek -0.02 pass 0.819 skip -0.86
+geçmemek 0.02
+gidermek 0.065 resolve
+girişken 0.4
+girmek 0.40 enter 0.084 get_in 0.943
+gitmek 0.772 go
+gitmemek -0.772
+giymek -0.69 wear
+giymemek 0.69
+gizem -0.80 mystery
+gizemli 0.4
+gizli 0.376 discreet 0.762 hidden -0.01
+gizlilik -0.81 confidentiality
+grev -0.83 strike
+grup 0.093 group
+gsl 0.6
+guruldama -0.61 rumble -0.45 grumble -0.77
+gurur 0.4
+gusel 0.6
+gök 0.752 sky 0.752
+göl 0.857 lake
+gölgeleyen -0.4
+gömlek 0.068 shirt 0.068
+gömülmek -0.07 bury -0.07
+göndermek 0.102 send
+görev 0.45 duty 0.871 task 0.028
+görkem 0.4
+görkemli 0.8
+görmek 0.061 see
+görmek-gerekmek 0.6
+görmemek -0.061
+görsel 0.056 visual
+görünmek 0.943 appear 0.943
+görüntülü 0.056 visual
+görüş 0.0935 sight 0.045 opinion 0.142
+gösterge 0.069 sign 0.069
+göstermek 0.83 show
+göstermemek -0.83
+götürmek -0.21 take_away
+göz 0.652 eye 0.652
+gözaltı -0.85 custody -0.85
+gözlemlemek 0.045 observe 0.043 examine 0.048
+gözlük 0.146 glasses 0.146
+gözyaş -0.6
+gözyaşı -0.08 tear -0.08
+güldür 0.4
+gülmek 0.4
+gülümse 0.6
+gülünç -0.6
+gümrük-vergisi 0.077 custom_duty 0.077
+gün 0.761 day
+günah -0.4
+günahkar -0.4
+günahsız 0.4
+günaydın 0.121 good_morning 0.121
+günaydınlaşmak 0.121 good_morning 0.121
+gündem 0.059 agenda
+gündüz -0.72 daytime
+güneşli 0.4
+gürültü 0.02 noise
+güsel 0.6
+güven 0.4
+güvenlik 0.4
+güvensiz -0.4
+güzel 0.6
+güç -0.01 force -1.0 power 0.913
+güçlenmek 0.838 get_strong
+güçlü 0.4
+güçsüz -0.4
+gıcık -0.6
+gıda 0.054 food
+gına -0.4
+haber 0.045 news
+hafif 0.037 light
+hafta -0.79 week
+hafıza 0.042 memory
+hain -0.8
+hak 0.926 right 0.926
+hak-etmek 0.4
+hakaret -0.8
+hakikaten 0.4
+hakiki 0.6
+haklı 0.926 right 0.926
+haksız -0.4
+hal 0.071 status
+hala -0.89 still
+halk 0.798 public
+hamburger 0.03 hamburger 0.03 hamburger 0.03
+hamur 0.028 dough 0.028
+hane 0.968 digit
+hanımefendi 0.9 madam
+hapis -0.06 jail -0.06 prison -0.06
+hapşırmak -0.97 sneeze
+hapşırmamak 0.97 sneeze
+haram -0.91 illicit
+harap -1.0
+harcamak -0.4
+harcamamak 0.4
+hareket 0.118 movement
+harika 0.6
+harikulade 0.6
+harkulade 0.6
+harmoni 0.4
+harıka 0.6
+has 0.83 special 0.813 unique 0.858
+haset -0.8
+hasret 0.73 longing
+hassas 0.6
+hasta -0.4
+hastalık -0.155 illness -0.15 disease -0.16
+hastane -0.11 hospital
+hata -0.4
+hatalı -0.4
+hatırlamak 0.842 remember
+hatırlatmak 0.09 remind
+hava 0.946 air
+havaalanı 0.123 airport
+havalimanı 0.123 airport
+havlamak -0.87 bark
+havlamamak 0.87 bark
+hayal 0.861 dream
+hayal-kırıklık -0.6
+hayalkırıklığı -0.4
+hayat 0.933 life
+haydut -0.4
+haykırmak -0.845 yell -0.87 shout -0.82
+haykırmamak 0.845
+hayran 0.6
+hayran-olmak 0.6
+hayran-olmamak -0.6
+hayret -0.6
+hayvanat-bahçesi 0.087 zoo 0.087
+haz 0.6
+hazetme 0.6
+hazin -0.8
+hazine 0.4
+hazır 0.086 ready 0.086
+hazırlanmak 0.085 get_ready
+hazırlanmamak -0.085 get_ready
+heba -0.4
+hedef 0.505 aim 0.878 goal 0.132
+hediye 0.8674999999999999 gift 0.909 present 0.826
+helal 0.6
+hemen -0.08 instantly
+hesap 0.09 account 0.157 bill 0.063 check 0.051
+hesaplama 0.635 calculation 0.951 computation 0.319
+heves 0.887 enthusiasm 0.887
+hevesli 0.6
+heyecan 0.6
+heyecanlan 0.6
+heyecanlı 0.6
+heyecansız -0.6
+hiciv -0.4
+hiddet -0.8
+hiddetli -0.8
+hidrojen 0.946 hydrogen
+hidrojen-peroksit -0.06 hydrogen_peroxide
+hile -0.6
+hissetmek 0.723 feel
+hissi 0.6
+hiv -0.94 hiv
+hiv-pozitif -0.94 hiv
+hizmet 0.84 service
+hiç -0.21 none
+hiç-yok -0.4
+hiçbir 0.2
+hobi 0.855 hobby
+hoca 0.42 teacher 0.857 lecturer -0.02
+hoş 0.123 nice
+hoş 0.4
+hoşa-gitmek 0.9055 appeal 0.943 enjoy 0.868
+hoşgörü 0.4
+hoşlan 0.6
+hoşnut 0.6
+huzur 0.4
+huzurlu 0.2
+huzursuz -0.4
+hücre 0.048 cell
+hükümet 0.093 government
+hümanist 0.875 humanist
+hünerli 0.4
+hüngür -0.8
+hürmet 0.4
+hüsran -0.4
+hüzün -0.6
+hüzünlenmek -0.86 become_sad -0.86
+hırsız -0.4
+hıyanet -0.6
+hız 0.1 speed
+hızlı 0.145 fast
+icat 0.049 invention
+iddia -0.86 bet
+iha -0.83 drone
+ihale 0.45 auction 0.085 bid 0.829
+ihanet -0.6
+ihlal-etmek -0.6
+ihtiyaç 0.864 need
+ihtişamlı 0.8
+ii 0.4
+iki -0.03 two
+iklim 0.093 climate
+ikram 0.80 complementary 0.622 treat 0.951
+ilahi 0.4
+ilan -0.04349999999999998 announce -0.89 announcement 0.803
+ilaç 0.79 medicine 0.841 0.74 cure
+ileri 0.752 forward
+iletişim 0.082 communication 0.082
+ilgi 0.4
+ilgili 0.5915 relevant 0.884 caring 0.299
+ilginç 0.6
+ilgisiz -0.4
+ilişki 0.89 relationship
+ilk 0.157 first
+ilkokul 0.024 primary_school
+iltifat 0.4
+imkan 0.095 opportunity 0.092 possibility 0.099
+imkansız 0.6
+inan 0.4
+inandır 0.4
+inanmak 0.4
+inanmamak -0.4
+inanç 0.21 belief 0.21
+inanılmaz 0.6
+inat -0.70 stubbornness
+inceleme -0.04 investigation -0.04
+incelemek 0.045 observe 0.043 examine 0.048
+incil 0.199 bible
+indirilmek -0.385 download -0.04 take_down -0.73
+indirim 0.944 discount
+inek 0.037 cow
+inkar -0.4
+inmek -0.72 descend
+inmemek 0.72
+insafsız -0.4
+insan 0.102 human
+insan-kaynakları 0.875 human_resource 0.875
+insani 0.4
+insanlık 0.079 humanity
+internet -0.04 internet
+intihar -0.10 suicide
+intihar -0.8
+intikam -0.4
+inşaat 0.01 construction 0.089 construction_work -0.07
+inşallah 0.4
+iptal -0.15 cancel
+irade 0.711 willpower
+irkilme -0.4
+ironi 0.874 irony
+ironik -0.72 ironic
+istasyon 0.058 station
+istek 0.773 request 0.734 wish 0.812
+istemek -0.81 wanting
+istememek 0.81
+istifa -0.87 quit_work
+istismar -0.4
+itaatsiz -0.4
+itfaiye -0.03 fire_truck
+itham -0.4
+itici -0.8
+iyi 0.4
+iyilik 0.4
+iyimser 0.4
+iz -0.86 marking
+izin 0.886 day_off
+izlemek 0.831 watch
+izlemek-gerekmek 0.6
+izolasyon -0.33 isolation -0.33
+iç 0.106 inside
+içerde 0.106 inside
+içeri 0.106 inside
+içermek 0.113 include
+içmek -0.01 drink
+içten 0.4
+içtenlik 0.4
+iğrenç -0.31 disgusting -0.31
+iş 0.10 job 0.849 work -0.66
+işkence -1.0
+işlemek 0.09 process 0.09
+işletim-sistem 0.063 operating_system
+işletme 0.137 business
+işsiz -0.7 unemployed
+işsizlik -0.95 unemployment
+işyeri 0.11 workplace 0.082 business 0.137
+jogging 0.096 jogging
+jüpiter 0.866 jupiter
+kaba -0.6
+kabiliyet 0.4
+kabiliyetli 0.4
+kabiliyetsiz -0.6
+kabul 0.33 acceptance
+kabus -0.6
+kadın 0.836 female
+kafa -0.71 head
+kafa -0.71 head
+kafa-karıştırmak -0.4
+kahkaha 0.4
+kahraman 0.6
+kahvaltı 0.75 breakfast 0.75
+kahve 0.859 coffee
+kalabalık -0.84 crowd
+kalburüstü 0.6
+kaldırmak -0.24 remove
+kaldırmamak 0.24 remove
+kaldırım -0.04 sidewalk
+kalem 0.2295 pen 0.085 pencil 0.039 marker 0.039 sharpie 0.755
+kalite 0.6
+kaliteli 0.6
+kalitesiz -0.4
+kalkmak 0.3 get_off 0.663 stand -0.05
+kalkmamak -0.3 not_get_off 0.663 not-stand -0.05
+kalmak 0.058 stay
+kalmamak -0.058 not-stay
+kalori 0.062 calorie
+kalorifer -0.09 heater
+kalp 0.131 heart
+kalpsiz -0.6
+kalıcı -0.84 permanent -0.84
+kalınlaşmak 0.704 thicken
+kamara -0.03 cabin
+kamaştır 0.8
+kamera -0.02 camera
+kampanya -0.81 campaign
+kampüs 0.03 campus
+kan -0.06 blood
+kanal 0.875 channel 0.887 canal 0.864
+kanalizasyon -0.03 sewer -0.03
+kandır -0.4
+kandırmak -0.83 fool -0.83
+kandırmamak 0.83
+kanka 0.46749999999999997 dude 0.839 bro 0.096
+kanlı -0.4
+kanser -0.8
+kantin 0.788 canteen
+kanıt 0.4
+kap 0.026 ceramic_bowl
+kapamak -0.45 close_down -0.95 turn_off -0.05
+kapamamak 0.45
+kapanmak -0.45 close_down -0.95 turn_off -0.05
+kapanmamak 0.45
+kapatmak 0.341 close 0.341
+kapatmamak 0.341
+kapatılmak -0.45 close_down -0.95 turn_off -0.05
+kapatılmamak 0.45
+kaplumbağa -0.1 turtle -0.1
+kapmak -0.150 grab 0.073 snatch -0.71 catch 0.188
+kapsam 0.125 scope
+kapı 0.077 door
+kar 0.51 snow 0.91 profit 0.119
+kara -0.03 black -0.68 land 0.624
+karaciğer -0.08 liver
+karamsar -0.6
+karanlık -0.2
+karantina -0.85 quarantine -0.85
+karar 0.101 decision
+kararsız -0.4
+karart -0.2
+karavan 0.4265 trailer 0.069 caravan 0.784
+karbonhidrat 0.05 carbohydrate 0.05
+kardeş 0.843 sibling
+kardeşlik 0.4
+kargaşa -0.4
+karizma 0.2
+karizmatik 0.4
+karmakarışık -0.4
+karman -0.4
+karmaşa -0.4
+karmaşık -0.4
+kartopu 0.113 snowball
+karın -0.80 stomach
+karışmak -0.84 interfere
+karışmamak 0.84
+karışık -0.4
+karışım 0.132 mixture 0.132
+karşı -0.72 against
+karşılamak 0.6 satisfy 0.937 fulfill 0.377 meet 0.768
+karşılamamak -0.6
+karşıt -0.4
+kasa 0.08 safe 0.11 checkout_counter 0.04
+kasvet -0.6
+kasıt -0.94 intention
+katil -0.4
+katkı 0.762 contribution 0.762
+katlet -0.4
+katliam -0.4
+katmak 0.095 add 0.095
+katmamak -0.095
+katılmak 0.098 join
+katılmamak -0.098
+kavga -0.6
+kaybeden -0.6
+kaybetme -0.4
+kaybetmek -0.4
+kaybolmak 0.045 get_lost
+kaybolmamak -0.045
+kaygı -0.8
+kaymak 0.106 slide 0.129 cream 0.083
+kaynak 0.9 resource 0.951 source 0.846
+kayıp -0.6
+kaza -0.4
+kazanan 0.4
+kazanmak 0.4
+kazanmamak -0.4
+kazara -0.4
+kazmak -0.14 dig
+kazmamak 0.14 dig 
+kazılı -0.14
+kazımak -0.07 scrape -0.05 scratch -0.09
+kaçmak -0.94 run_away
+kaçmamak 0.94
+kaçınılmaz -0.85 inevitable
+kaçırmak -0.68 miss -0.89 kidnap -0.47
+kaçırmamak 0.68
+kaçış -0.4
+kaşık 0.046 spoon
+keder -0.8
+kedi 0.025 cat
+kek 0.095 cake
+kelepçe -0.06 handcuff
+kelime 0.028 word
+kemoterapi -0.59 chemotherapeutic
+kenar 0.051 edge 0.051
+kent 0.104 city
+kesin 0.884 certain
+kesinlikle 0.2
+kesmek -0.05 cut
+keyif 0.6
+keyiflenme 0.6
+keyifli 0.6
+keyifsiz -0.6
+keşfetmek 0.911 discover
+keşiş 0.166 monk 0.166
+keşke -0.2
+kibar 0.6
+kilitlenmek 0.076 lock
+kilo 0.875 weight 0.875
+kimlik 0.111 identity 0.111
+kinci -0.30 spiteful
+kiralık 0.0654 rental_apartment 0.069 rental_car 0.058 rental_truck 0.069
+kirli -0.4
+kirlilik -0.4
+kitap -0.08 book
+kitapçı 0.084 book_store
+kitle 0.137 mass 0.137
+kişi 0.903 person
+kişilik 0.798 personality 0.798
+kişisel 0.842 personal 0.842
+klasik 0.4
+klavye 0.936 keyboard
+klişe -0.4
+kocaman 0.6
+kodlama 0.782 coding 0.782
+kokmak 0.932 smell
+kokmamak -0.932
+koku 0.932 smell
+kol -0.06 arm
+kola 0.078 coke
+kolay 0.2
+kolaycılık -0.4
+koleksiyon 0.081 collection 0.081
+kolonya 0.066 cologne 0.066
+koma -0.84 comatose
+komik 0.4
+komisyon 0.881 commission 0.881
+komple -0.76 all
+kompleks -0.4
+komplo -0.4
+kompozisyon -0.38 composition 0.034 essay -0.80
+komşu 0.041 neighbor
+konforlu 0.6
+konser 0.049 concert 0.049
+kontenjan -0.02566666666666669 spot 0.085 capacity -0.87 quota 0.708
+kontrol 0.082 control
+konu 0.031 subject 0.031
+konum 0.132 location
+konuşma -0.85 talk -0.85
+konuşmak -0.38 talk -0.85 speak 0.064
+konuşmamak 0.393
+koordinatör 0.115 coordinator
+kopuk -0.4
+kopya -0.4
+korkak -0.6
+korkmak -0.66 fear
+korkmamak 0.66
+korku -0.66 fear
+korkunç -0.6
+korkusuz 0.4
+korkutma -0.8
+korkutucu -0.6
+korumak 0.802 protect 0.802
+korumamak -0.802
+kovdurmak -0.69
+kovdurmamak 0.69
+kovulmak -0.69 fired
+kovulmamak 0.69 
+koz 0.847 leverage 0.847
+koç -0.4085 coach 0.063 ram -0.88
+koşmak -0.74 run
+koşmamak 0.74 
+koşu 0.198 running
+koşul 0.943 condition 0.943
+kraliçe 0.895 queen 0.895
+kredi-kartı 0.048 credit_card 0.048
+kreş 0.771 daycare_center
+kriz -0.78 crisis
+kucakla 0.6
+kulak 0.92 ear 0.92
+kulaklık -0.82 earpiece -0.82
+kulakmeme 0.75 lobe 0.75
+kule 0.077 tower
+kullanmak 0.053 use
+kullanmamak -0.053
+kullanım 0.837 usage
+kulüp 0.124 club 0.124
+kumar -0.84 gamble
+kupa 0.052 cup 0.057 trophy 0.047
+kupon 0.818 coupon 0.818
+kurban -0.6
+kurmak 0.048 set_up
+kurmamak -0.048 
+kurnaz -0.6
+kurtarmak 0.112 save
+kurtarmamak -0.112
+kuru 0.051 dry
+kurul 0.052 committee   
+kusur -0.4
+kusurlu -0.4
+kusursuz 0.4
+kutla 0.4
+kutlamak 0.4
+kutlamamak -0.4
+kutlanmak 0.719 celebrate
+kutlanmamak -0.719
+kutlu 0.867 merry 0.867
+kutsal 0.4
+kutu 0.037 box
+kuvvet -1.0 force
+kuyu 0.719 well 0.719
+kuş -0.62 bird -0.62
+kuşku -0.4
+kök -0.80 root
+köken -0.80 root
+köle -0.6
+köpek 0.875 dog
+kör -0.4
+kötü -0.4
+kötüleme -0.4
+köylü 0.75 villager 0.75
+köşe -0.7 corner -0.7
+küfretmek -0.4
+küfür -0.4
+kült 0.4
+kültürsüz -0.96 uneducated
+küme 0.143 set
+küresel 0.12 global
+kütüphane 0.071 library
+küvet -0.03 bathtub
+küçücük -0.11 tiny -0.11
+küçük -0.475 small -0.11 little -0.84
+küçültmek -0.74 shrink -0.74
+kıl -0.03 hair -0.03
+kınama -0.4
+kırgın -0.6
+kırmak -0.03 break
+kırmamak 0.03
+kırmızı 0.020 color_red -0.04 red 0.043
+kırmızı-elma -0.04 red_apple
+kırık -0.4
+kırılamayan 0.6
+kırılgan -0.6
+kırılma -0.6
+kısa -0.74 short
+kıskanmak -0.33 envy -0.33
+kıskanmamak 0.33
+kısım 0.873 part 0.873
+kısır -0.4
+kıt -0.4
+kıvam -0.020 consistency 0.76 consistence -0.8
+kıyafet 0.675 clothing 0.675
+kıyak 0.4
+kıyamet -0.4
+kıymet 0.4
+kıymetli 0.6
+kız 0.053 girl 0.053
+kızgın -0.8
+kızma -0.8
+kızmak -0.81 get_angry -0.81
+kızmamak 0.81 
+kış 0.05 winter 0.05
+lanet -0.8
+laubali -0.4
+lavabo 0.44 bathroom_sink 0.072 kitchen_sink 0.812
+lazım 0.12 necessary 0.12
+lekesiz 0.4
+lezzet 0.4
+libido 0.709 libido 0.709 libido 0.709
+lif -0.77 fiber -0.77
+lise 0.026 high_school
+liste 0.116 list 0.116
+lobi 0.036 lobby 0.036
+lodos -0.85 southerly_wind
+logo 0.934 logo
+lord 0.076 lord
+lüks 0.806 luxury 0.806
+lütfen 0.922 please
+lütuf 0.4
+maalesef -0.4
+maaş 0.923 wage
+macera 0.755 adventure
+madde -0.45 material -0.02 drug -0.87
+mahkeme 0.07 court
+mahkum -0.4
+mahsur -0.75 stuck
+mahsül 0.20750000000000002 product 0.23 produce 0.185
+mahvetmek -0.4
+mahvetmemek 0.4
+mahvolmak -0.89 devastate
+mahvolmamak 0.89
+makale 0.943 article
+makarna 0.832 pasta 0.832
+makbul 0.4
+makine 0.063 machine 0.063
+malesef -0.4
+mali 0.137 financial
+mamul 0.153 merchandise 0.076 product 0.23
+manasız -0.4
+manav 0.074 grocery 0.074
+manita 0.83 lover 0.83
+mantık 0.063 logic 0.063
+mantık-dış -0.4
+mantıklı 0.4
+mantıksız -0.6
+manyetik 0.089 magnetic
+maraton 0.108 marathon
+marifet 0.4
+marifetli 0.4
+marifetsiz -0.6
+marjinal -0.4
+marka 0.12 brand
+market 0.06333333333333334 market 0.055 market 0.055 supermarket 0.08
+maruz -0.81 expose -0.81
+maske 0.043 mask
+masum 0.4
+matem -0.4
+matkap 0.06 electric_drill
+matrak 0.8
+mazlum -0.88 oppressed -0.88
+maç 0.042 sport_game
+maşallah 0.805 wonderful 0.805
+medeniyet 0.099 civilization
+medya 0.11 media
+mekan 0.069 place
+melankoli -0.8
+meme -0.256 meme 0.158 breast -0.67
+memleket 0.069 hometown
+memnun 0.4
+memur 0.851 officer
+men -0.88 prohibition -0.88
+merak -0.35 curiousity
+mercii 0.91 authority 0.91
+merkez 0.077 center 0.104 central 0.051
+mermer 0.064 marble
+mesafe -0.79 distance
+mesai 0.055 shift 0.055
+mesaj 0.162 message
+meslek 0.849 job 0.849
+mesut 0.4
+meteor 0.851 meteoroid 0.851
+metin 0.762 text 0.762
+metro 0.37 metro 0.824 subway -0.07
+mevsim 0.876 season
+meyve 0.082 fruit 0.082
+mezar -0.91 tomb -0.91
+mezun 0.03 alumnus
+meşgul -0.79 busy
+mide -0.80 stomach
+mide-bulandırmak -0.8
+mide-bulandırmamak 0.8
+mide-bulanmak -0.93 feel_sick -0.93
+mide-bulanmamak 0.93
+mikrop -0.08 microbe
+miktar 0.121 amount
+millet 0.624 nation
+milli 0.063 national
+milliyet 0.861 nationality
+milyar 0.707 billion
+milyon 0.182 million
+mimari 0.50 architecture 0.141 architectural 0.851
+mini -0.11 small
+minik -0.11 small
+minnettar 0.4
+mizah 0.6
+mobil 0.129 mobile
+moda 0.036 fashion 0.036
+model 0.83 edition 0.806 version 0.92 type 0.794
+modern 0.886 modern
+monotonluk -0.4
+mont 0.083 jacket 0.132 coat 0.034
+motor 0.796 motor
+muamma -0.4
+muazzam 0.6
+mucizevi 0.6
+muhalif -0.4
+muhasebe 0.708 accounting
+muhtac -0.4
+muhtaç -0.4
+muhteşem 0.8
+mukemmel 0.8
+mutfak 0.445 kitchen 0.068 cuisine 0.822
+mutlaka 0.2
+mutlu 0.4
+mutluluk 1.0
+mutsuz -0.6
+muziplik 0.8
+mücadele -0.46 struggle -0.08 fight -0.85
+müdahale -0.88 intervention -0.88
+müdür -0.05 manager
+mühendis 0.87 engineer
+mühendislik 0.878 engineering
+mükafat 0.4
+mükemmel 0.8
+mülteci -0.4
+mütevazi 0.963 humble
+mütevazı 0.878 modest 0.878
+müthiş 0.6
+müze 0.043 museum 0.043
+müşteri 0.865 customer
+mızmız -0.4
+nadir 0.4
+nafaka -0.86 alimony -0.86
+nakil 0.074 transfer
+namaz 0.136 prayer 0.136
+nankörlük -0.4
+nargile -0.04 nargile -0.04
+naz -0.4
+naz -0.82 affectation
+nazik 0.4
+nefes 0.79 breath 0.819 breathe 0.764
+nefis 0.6
+nefret -0.8
+negatif -0.4
+nezaket 0.817 courtesy 0.817
+nezaketsiz -0.6
+neşe 0.4
+neşeli 0.6
+niteliksiz -0.4
+nişanlan 0.6
+nişanlanmak 0.855 engagement
+nişanlanmamak -0.855
+noksan -0.4
+nokta 0.037 point
+normal 0.134 normal
+not 0.50 grade 0.917 note 0.089
+numara -0.73 number -0.73
+nöbet 0.015 watch 0.831 seizure -0.8
+nöron 0.974 neuron
+nüfus 0.055 population 0.055
+oda 0.078 room
+ofis 0.054 office
+oflama -0.4
+ok 0.054 arrow
+okul 0.74 school
+okumak 0.055 study 0.139 read -0.02
+okumamak -0.055
+okçu -0.11 archer
+olanaksız -0.4
+olay -0.78 incident -0.89 happening -0.67
+olağanüstü 0.8
+oley 0.6
+olumlu 0.6
+olumsuz -0.4
+olur 0.964 happen
+on -0.03 ten
+online 0.087 online
+onur 0.2
+onurl 0.4
+onurlanmak 0.796 honor 0.796
+onurlanmamak -0.796
+operasyon -0.06 operation
+operatör 0.663 telephone_service_provider
+optimizasyon 0.786 optimization
+oran 0.031 ratio
+orantı 0.031 ratio
+orantılı 0.112 proportional
+orantısız -0.83 disproportional
+ordu 0.744 military
+organik 0.051 organic
+orijinal 0.2
+orjinal 0.2
+orta 0.14 middle
+ortalama 0.053 average
+ortam 0.085 medium 0.103 place 0.069
+ot -0.02 weed
+otel -0.07 hotel
+otizm -0.77 autism
+oturmak 0.065 sit
+oturmamak -0.065
+oynama 0.2
+oynamak 0.688 play
+oynamamak -0.688
+oyun -0.08 play 0.688 game -0.86
+oyunbozan -0.78 spoilsport
+oyuncak 0.105 toy
+oğul 0.053 son 0.053
+pahalı -0.4
+paket 0.48 pack 0.067 package 0.849
+panik -0.6
+para 0.866 money
+paragöz -0.4
+paralel -0.76 parallel
+parmak 0.866 finger 0.866
+parti 0.841 party
+parçalamak -0.08 tear_apart -0.08
+parçalamamak 0.08
+pass 0.819 pass
+pataklama -0.4
+patlama -0.4
+patlamak -0.4
+patlamamak 0.4
+patlamış_mısır -0.03 popcorn -0.03
+patlatmak -0.4
+patlatmamak 0.4
+patlayıcı -0.4
+patron 0.075 boss
+paylaşmak 0.859 share
+paylaşmamak -0.859
+pazar 0.055 market 0.055
+peluş 0.941 plush 0.941
+pencere 0.05 window
+perfect 0.4
+performans 0.646 performance
+perişan -0.8
+personel 0.931 personnel
+pervasız -0.4
+petrol 0.21275 petrol -0.08 petrol -0.08 petroleum 0.129 oil 0.882
+peygamber 0.136 prophet
+pick_up 0.201 pick_up 0.333 pick_up_truck 0.069
+pikap 0.069 pick_up_truck 0.069
+pilav 0.701 rice 0.701
+pilot 0.06 pilot
+pirinç 0.701 rice
+pis -0.4
+pislik -0.6
+piyasa 0.055 market
+pizza 0.082 pizza 0.082 pizza 0.082
+pişman -0.4
+plan 0.083 plan
+plastik -0.82 plastic
+platform 0.114 platform 
+polen 0.827 pollen 0.827
+polis 0.795 police
+pompalı -0.75 shotgun -0.75
+popüler 0.4
+popüler 0.882 popular
+potansiyel 0.9 potential
+pozitif 0.6
+poşet 0.095 plastic_bag
+premium -0.23 premium -0.23 premium -0.23
+prestij 0.4
+problem -0.4
+profesyonel 0.4
+profil 0.08 profile 0.08
+program 0.581 program 0.358 programme 0.804
+proje 0.095 project
+propaganda -0.4
+protein 0.853 protein
+protest -0.4
+puan 0.037 point
+puanlamak 0.917 grade
+puanlamamak -0.917
+püskevit 0.057 biscuit 0.051 cookie 0.063
+quiz 0.022 quiz
+rabb 0.486 god 0.864 almighty 0.108
+radyo 0.026 radio
+rahat 0.6
+rahat 0.819 relax
+rahatla 0.4
+rahatlamak 0.325 relieve 0.325
+rahatlamamak -0.325
+rahatlıkla 0.2
+rahatsız -0.4
+rakam -0.73 number
+rakip -0.86 opponent
+randevu 0.689 date
+rapor -0.83 report
+rastgele 0.74 random
+rastlamak 0.845 encounter
+rastlamamak -0.845 encounter
+rastlanmak 0.845 encounter
+rastlanmamak -0.845
+razı 0.4
+realist 0.945 realist
+red -0.4
+refah 0.4
+reklam -0.81 ad
+rekor 0.6
+rekortmen 0.06 record_holder
+rektör 0.178 rector 0.178
+renkli 0.658 colourful 0.658
+resmi 0.801 formal
+restart 0.085 restart
+rezalet -0.8
+rezervasyon 0.084 reservation
+rezil -0.8
+risk -0.4
+robot 0.741 robot
+romanti 0.8
+ruh 0.094 soul 0.094
+ruhsal_çöküntü -0.87 breakdown -0.87
+ruhsuz -0.4
+röportaj 0.055 interview 0.055
+rüya 0.861 dream 0.861
+saat -0.55 clock -0.90 hour 0.093 wrist_watch -0.83
+sabah 0.877 morning
+sabit -0.84 fixed
+sabit-fikirli -0.4
+sabır 0.054 patience
+sabırlı -0.06 patient
+sabırsız -0.4
+sabırsız -0.83 impatient
+sadakat 0.4
+sadece -0.76 only
+sadelik 0.4
+sadık 0.4
+saf -0.90 naive
+sahip 0.10 owner 0.072 own 0.129
+sahiplenmek 0.922 adopt
+sahne 0.801 stage
+sahte -0.4
+sakatlamak -0.89 injure
+sakatlamamak 0.89
+sakatlanmak -0.89 injure
+sakatlanmamak 0.89
+sakin 0.4
+sakın -0.6
+sakız 0.052 chewing_gum
+salak -0.6
+saldırmak -0.6
+saldırmamak 0.6
+saldırı -0.14 attack -0.14
+salgın -0.4
+sallamak -0.98 shake -0.98
+sallamamak 0.98
+samimi 0.2
+samimiyetsiz -0.6
+sanat-eser 0.8
+sanatçı 0.077 artist
+saniye 0.038 second
+sanmak -0.76 suppose -0.88 presume -0.71
+sanmamak 0.76
+sanık 0.824 defendant
+sapan 0.831 sling_shot
+sapık -0.4
+saray 0.09 palace
+sarkıntı -0.8
+sarmak 0.867 wrap
+sarmamak -0.867
+sarılma 0.6
+sarılmak 0.956 hug 0.956
+sarılmamak -0.956
+sarımsak 0.077 garlic
+satmak 0.07 sell
+satmamak -0.07
+satın-almak 0.085 buy 0.093 purchase 0.078
+satın-almamak -0.085
+savaş -0.4
+savaşmak -0.85 fight -0.85
+savaşmamak 0.85
+savunmak 0.814 defend 0.814
+savunmamak -0.814
+saygı 0.6
+saygısız -0.6
+sayı -0.73 number
+saç -0.03 hair -0.03
+saçma -0.4
+saçma -0.72 meaningless
+saçmak -0.07 spill
+saçmamak 0.07
+sağlam 0.4
+sağlamak 0.136 provide
+sağlamamak -0.136 
+sağlık 0.857 health
+sağlıklı 0.769 healthy
+sağlıksız -0.4
+sebep 0.45 reason 0.058 cause 0.843
+seksi 0.6
+sekülerizm 0.143 secular
+selam 0.875 hello 0.875
+selim 0.4
+sempati 0.4
+senaryo 0.035 script 0.035
+senato -0.83 senate
+sendika 0.084 union
+sene -0.74 year -0.74
+sergilenmek 0.842 exhibit
+seri -0.151 quick 0.145 streak -0.66 sequence 0.063
+sermaye 0.101 capital
+sert -0.4
+servet 0.4
+serçe -0.1 sparrow
+ses 0.058 voice 0.043 sound 0.073
+seslenmek 0.141 call
+sessiz 0.859 quiet
+sessizlik 0.4835 silence 0.108 quiet 0.859
+sevap 0.4
+sevdir 0.4
+sevecen 0.6
+seven 0.8
+sevgi 0.6
+sevgili 0.6
+sevilmek 0.8
+sevimli 0.4
+sevinme 0.4
+sevinmek 0.4
+sevinmemek 0.4
+sevinç 0.6
+seviye 0.879 level 0.842 grade 0.917
+seviyesiz -0.6
+sevmek 0.831 love 0.83 adore 0.831 
+sevmemek -0.831
+seyirlik 0.4
+sezon 0.876 season
+seçilmek 0.827 elected
+seçim 0.125 election 0.061 choice 0.188
+seçkin 0.6
+seçmek 0.75 elect
+sigara -0.03 cigarette
+sihir 0.4
+silah -0.4
+silahlanmak -0.1 get_armed -0.1
+silahlanmamak 0.1
+silik-kalmak -0.6
+silika -0.02 silica
+silinmek -0.161 
+silmek -0.161 delete -0.74 erase 0.196 wipe 0.062
+silmemek 0.161
+sinek -0.04 fly -0.03 mosquito -0.05
+sinir -0.6
+sinirlenmek -0.81 get_angry -0.81
+sipariş 0.152 order
+sistem 0.155 system
+sistemsiz -0.74 disorderly
+sivrisinek -0.05 mosquito -0.05
+siyah -0.68 black
+siyanür -0.88 cyanide
+siyaset 0.080 policy 0.076 politics 0.083
+siyasi 0.904 politic 0.866 political 0.942
+skandal -0.33 scandal
+skandal -0.6
+sms 0.026 text_message 0.026
+soda 0.3815 soda 0.078 mineral_water 0.685
+sokak 0.032 street
+soluk 0.819 breath 0.819
+son 0.0495 son 0.053 end 0.046
+sonsuz 0.4
+sonuç 0.033 result
+sonuçla 0.4
+sorgulamak -0.07 interrogate -0.07
+sorgulamamak 0.07
+sorgusuz -0.79 unquestioned
+sormak 0.845 ask
+sormamak -0.845
+soru 0.821 question 0.821
+sorumluluk 0.866 responsibility
+sorun -0.4
+sorunl -0.4
+sorunsuz 0.4
+soruşturmak -0.09 investigate
+soruşturmamak 0.09
+sosyal 0.4
+soy 0.108 race 0.108
+soygun -0.4
+soysuz -0.4
+soyut 0.157 abstract 0.157
+soğuk -0.4
+soğuk 0.103 cold
+soğutma -0.4
+sperm 0.045 sperm
+spesiyalite 0.4
+spor -0.06 sports
+spor_salonu 0.026 gym 0.026
+sporcu 0.906 athlete
+stres -0.82 stress
+su -0.10 water
+sualsiz -0.79 unquestioned
+sucuk 0.642 sausage 0.642
+suikast -0.4
+sukulent 0.052 succulent
+sunmak 0.826 present 0.826
+sunmamak -0.826
+sunum 0.818 presentation 0.818
+suret 0.679 face 0.679
+suskun -0.82 silent -0.82
+susmak -0.05 shut_up -0.05
+susturmak -0.05 shut_up -0.05
+susuz -0.63 watertight
+suç -0.8
+suçlama -0.4
+suçlamak -0.4
+suçlamamak -0.4
+suçlu -0.8
+suçsuz 0.4
+sönme -0.4
+sönük -0.4
+söylemek 0.076 tell
+söylemek 0.614 say
+söylememek -0.614
+söylenmek -0.23 whine -0.23
+söylenti -0.4
+söz 0.147 promise 0.147
+süper 0.6
+süpper 0.6
+süre 0.861 time
+sürekli -0.59 continuous
+süreç 0.09 process 0.09
+sürgün -0.4
+sürmek 0.45 continue 0.113 drive 0.764
+sürpriz 0.2
+sürü 0.037 herd
+sürükleyici 0.4
+sürülme -0.4
+süt 0.853 milk
+sıcacık 0.6
+sıcak 0.4
+sıcaklık -0.77 temperature
+sıfır -0.4
+sık 0.074 dense 0.038 frequent 0.111
+sıkmak -0.4
+sıkmamak 0.4
+sıkı 0.4
+sıkıcı -0.4
+sıkılma -0.4
+sıkılmadan 0.6
+sıkılmak -0.4
+sıkılmamak 0.4
+sıkıntı -0.6
+sıkışma -0.4
+sıkışmak 0.05 get_stuck 0.05
+sıkışmamak -0.05
+sımsıcak 0.6
+sınav -0.830 exam
+sınıf 0.386 classroom 0.843 class -0.07
+sınıf-kalmak -0.6
+sınır -0.250 limit -0.82 boundary 0.036 border 0.033
+sır 0.419 secret 0.879 glaze -0.04
+sıra 0.277 queue -0.1 order 0.152 line 0.778
+sıradan -0.4
+sıradışı 0.4
+sırıt 0.4
+sığmak 0.867 fit 0.867
+sığmamak -0.867
+sığır 0.799 cattle 0.799
+tabela 0.069 sign
+taciz -0.8
+tahammül -0.2
+tahmin 0.943 guess
+takdir 0.4
+taklit -0.6
+takıntı -0.6
+talep 0.734 request
+talih 0.6
+talihkuşu 0.6
+talihl 0.6
+talihsiz -0.6
+tam 0.793 whole
+tam-not 0.4
+tamamen 0.2
+tamamla 0.4
+tamir 0.931 repair 0.931
+tane 0.909 piece
+tanrı 0.864 god
+tanıdık 0.648 acquaintance 0.648
+tanımak 0.103 know
+tanımamak -0.103
+tanıtmak 0.948 introduce
+tanıtmamak -0.948
+tanışmak 0.768 meet
+tanışmamak -0.768
+taraf 0.061 side 0.061
+tarama -0.04 scan -0.04
+tarih 0.025 history
+tartışma -0.4
+tartışmak -0.4
+tartışmamak 0.4
+tartışmasız 0.4
+tartışılır -0.4
+tarz 0.073 style 0.073
+tasarı 0.04 draft
+tat 0.752 taste 0.752
+tatil 0.87 holiday 0.95 vacation 0.778
+tatlı 0.4
+tatlılık 0.6
+tatlım 0.6
+tatmin 0.4
+tatmin-etmek 0.4
+tatsız -0.74 tasteless -0.74
+tavan 0.063 ceiling
+tavsiye 0.8
+taze 0.0795 taze 0.096 fresh 0.063
+taş 0.375 rock 0.12 stone 0.63
+taşımak 0.075 carry
+taşımamak -0.075
+taşınmak -0.86 move_out
+taşınmamak 0.86 
+tebrik 0.6
+tebrik 0.782 congratulate
+tecavüz -0.8
+tecavüz-etmek -0.6
+tedavi -0.11 treatment
+tedbir -0.81 precaution
+tedirgin -0.8
+teessüf -0.4
+tehlike -0.4
+tek 0.039 single
+teklif 0.6
+teknoloji 0.086 technology
+teknolojik 0.853 technological
+tekrar 0.076 repeated
+telefon 0.775 telephone
+teleskop 0.039 telescope
+televizyon 0.045 television 0.045
+tembellik -0.4
+temiz 0.986 clean
+temizlemek 0.986 clean
+temizlenmek 0.986 clean
+temizlik -0.03 cleaning
+tempo 0.928 tempo
+tenis 0.136 tennis
+teori 0.107 theory
+tepki -0.77 reaction
+teras 0.088 terrace 0.088
+terbiyesiz -0.6
+tercih 0.188 choice
+tereddüt -0.2
+tereddütsüz 0.4
+tereyağı 0.026 butter
+terk -0.4
+termos 0.788 vacuum_flask 0.788
+ters 0.705 reverse
+terör -0.6
+teslim 0.823 delivery
+tespit 0.4405 detect 0.04 detection 0.841
+test 0.829 test
+tesüf -0.4
+teyze 0.071 aunt
+tezat -0.86 contrast
+teşekkür 0.4
+teşekkürler 0.746 thanks 0.746
+tip 0.794 type
+tipsiz -0.6
+titiz 0.2
+tolerans 0.4
+top 0.47 top 0.085 ball 0.855
+toplamak 0.767 collect
+toplamamak -0.767
+toplanmak 0.114 come_together
+toplanmamak -0.114
+toplantı 0.035 meeting
+toplu-taşıma -0.03 public_transport -0.03
+toplum 0.042 society
+toplumsal 0.35 social 0.055 communal 0.645
+tost 0.038 toast 0.038
+trafik -0.97 traffic
+trajedi -0.6
+trajik -0.6
+travma -0.8
+tuhaf -0.4
+turizm 0.903 tourism
+turnuva 0.057 tournament
+tutarsız -0.4
+tutku 0.6
+tutmak 0.786 hold
+tutmamak -0.786
+tutunmak 0.124 hold_on_to
+tutunmamak -0.124
+tuval 0.077 canvas 0.077
+tuvalet 0.0785 toilet 0.051 bathroom 0.106
+tuz -0.91 salt
+tuğla 0.729 brick
+tuş 0.836 button
+tv 0.045 tv
+tören 0.853 ceremony
+tükenme -0.4
+tüketim 0.209 consumption
+tüketme 0.091 consume
+tüketmek 0.091 
+tüketmemek -0.091
+tüm -0.76 all
+tüp 0.032 tube 0.032
+tür 0.44 type 0.794 species 0.08
+türkü 0.196 folk_song
+tütün -0.67 tobacco
+tıbbi 0.952 medical
+tıp 0.841 medicine 0.841
+tırsma -0.6
+ucube -0.4
+ucuz -0.4
+ufak -0.11 small -0.11
+ukala -0.4
+ulaştırma 0.041 transportation 0.041
+ulaşım 0.064 transport 0.064
+ulusal 0.063 national
+uluslararası 0.071 international
+ummak 0.892 hope
+ummamak -0.892
+umursamak 0.784 care 0.784
+umursamamak 0.784
+umursamaz -0.4
+umut 0.4
+umutlu 0.4
+umutsuz -0.8
+unutmak -0.80 forget
+unutmamak 0.8
+unutulmaz 0.6
+uslanmaz -0.4
+uslu 0.4
+usta 0.4
+utan -0.6
+utangaç -0.91 shy -0.91
+uyanmak 0.865 wake_up
+uyanmamak -0.865
+uyanık 0.4
+uyarma -0.4
+uyarı -0.4
+uydurma -0.77 made_up
+uyduruk -0.4
+uygulama 0.0755 application 0.075 implementation 0.076
+uygulamak 0.086 apply
+uygulamamak -0.086 apply
+uygun 0.2
+uyku 0.056 sleep
+uykusuz -0.4
+uyum 0.4
+uyumak 0.056 sleep
+uyumamak -0.056
+uyumlu 0.4
+uyumsuz -0.6
+uyutmak 0.056 sleep
+uyutmamak -0.056
+uyuşturucu -0.77 addictive_drug
+uzak -0.82 far
+uzakdoğu -0.347 far -0.82 east 0.126
+uzatmak 0.895 prolong
+uzatmamak -0.895
+uzay 0.853 space
+uzmanlık 0.4
+uzun 0.056 long
+uzuv 0.107 limb
+uç -0.2333333333333333 edge 0.051 extreme -0.86 tip 0.109
+uçak 0.04 plane
+uçmak -0.03 fly
+uçmamak 0.03
+uçuş 0.943 flight
+uğramak 0.032 visit
+uğramamak -0.032 
+uğraşmak -0.37 work -0.66 struggle -0.08
+uğurlu 0.4
+uğursuz -0.8
+vagon -0.67 wagon
+vahim -0.4
+vahşet -0.6
+vahşi -0.6
+vakit 0.861 time
+vampir -0.82 vampire -0.82
+var 0.913 exist
+vardiya 0.055 shift
+varolmak 0.913 exist
+varolmamak -0.913
+vasat -0.4
+vasıfsız -0.4
+vatandaş 0.808 citizen
+vay 0.079 oh_wow
+vazgeçmek -0.93 give_up
+vazo -0.04 vase -0.04
+vefa 0.4
+vefasız -0.4
+vefat -0.6
+vegan -0.89 vegan
+vergi -0.21 tax
+veri 0.943 data
+verimli 0.034 efficient 0.034
+verimlilik 0.839 efficiency 0.839
+verimsiz -0.4
+vermek 0.805 give
+vermemek -0.805
+versiyon 0.92 version
+veto -0.4
+video 0.163 video
+viraj 0.117 turn 0.117
+viral 0.158 viral
+virüs -0.92 virus
+vurgulamak 0.827 emphasize
+vurgulamamak -0.827
+vurmak -0.52 hit -0.85 smack -0.65 shoot -0.06
+vurmamak 0.52
+vuruş -0.84 hit -0.85 strike -0.83
+wifi -0.04 wifi
+wikipedia 0.072 wikipedia
+wow 0.6
+yabani -0.83 wild
+yadırgama -0.4
+yakalamak 0.188 catch
+yakalamamak -0.188
+yakmak -0.05 burn
+yakmamak 0.05
+yakın 0.338 close 0.341 near 0.335
+yakında 0.071 soon
+yakışma 0.4
+yakışık 0.4
+yalan -0.4
+yalancılık -0.77 lying
+yalanlama -0.4
+yalnız -0.4
+yamyam -0.4
+yan 0.061 side
+yanak -0.05 cheek
+yanaşmak 0.881 approach
+yanaşmamak -0.881 
+yangın -0.03 fire
+yanlış -0.76 wrong
+yanlışlıkla -0.86 accidentally
+yanılma -0.4
+yapay -0.4
+yapmacık -0.4
+yapmak 0.082 make
+yapmamak -0.082 not-make
+yapı 0.107 building
+yapıcı 0.4
+yapılmak 0.082 made
+yapılmamak -0.082
+yapışkan-kağıt -0.03 sticky_note
+yapışmak 0.177 stick 0.177
+yapışmamak -0.177
+yara -0.87 wound -0.87
+yaralamak -0.4
+yaralamamak 0.4
+yarar 0.4
+yararlı 0.4
+yararsız -0.4
+yaratıcı 0.4
+yaratık -0.4
+yardım 0.823 help
+yardımcı 0.4
+yargı 0.845 judgement
+yarı -0.04 half
+yarılma 0.2
+yarım -0.04 half
+yarın 0.759 tomorrow
+yarış 0.347 race 0.108 contest 0.054 competition 0.879
+yarışmacı -0.03 contestant
+yarışmak 0.497 race 0.108 compete 0.887
+yarışmamak -0.497
+yas -0.4
+yas-tutmak -0.6
+yas-tutmamak 0.6
+yasa 0.147 law
+yasak -0.86 disallowed
+yasaklamak -0.87 forbid -0.88 disallow -0.86
+yasaklamamak 0.87
+yaslı -0.6
+yastık 0.936 pillow 0.936
+yatmak -0.065 lie_down -0.08 lay_down 0.211
+yatmamak 0.065
+yatırım 0.137 investment
+yatırımcı 0.076 investor 0.076
+yavan -0.4
+yavaş -0.86 slow -0.86
+yaygın 0.095 common
+yaymak 0.646 spread
+yaymamak -0.646 
+yayılmak 0.646 spread
+yayılmamak -0.646
+yayın 0.071 broadcast
+yayınlamak 0.894 publish
+yayınlamamak -0.894
+yaz 0.8115 summer 0.792 write 0.831
+yazar 0.829 author
+yazmak 0.831 write
+yazmamak -0.831
+yazı -0.97 writing -0.97
+yazık -0.4
+yazılım -0.81 software
+yağlı -0.48 oily -0.89 greasy -0.07
+yağmak -0.72 rain
+yağmamak 0.72
+yağmur -0.72 rain
+yağmurlu -0.08 rainy -0.08
+yağış -0.72 rain
+yaş 0.019 age 0.067 wet -0.03
+yaşam 0.933 life
+yaşamak 0.929 live
+yaşamamak -0.929 live
+yaşanmak 0.964 happen 0.964
+yaşanmamak -0.964 happen 0.964
+yaşlanmak 0.067 age 0.067
+yaşlanmamak -0.067 age 0.067
+yaşlı -0.77 old -0.77
+yemek 0.054 food
+yemek 0.148 eat
+yemekhane 0.072 cafeteria
+yememek -0.148
+yemin 0.152 oath 0.152
+yengeç -0.76 crab
+yeni 0.081 new
+yeniden 0.067 again
+yenik -0.4
+yenil -0.4
+yenmek 0.60 overcome 0.881 beat 0.318
+yer 0.943 floor
+yersiz -0.4
+yetenek 0.4
+yetenekli 0.4
+yeteneksiz 0.4
+yeterince 0.867 enough
+yetersiz -0.4
+yetersizlik -0.4
+yetiştirmek 0.106 grow
+yeğen 0.858 niece 0.858
+yeşermek 0.903 flourishing
+yeşermemek -0.903 flourishing
+yeşertmek 0.088 flourish
+yeşertmemek -0.088 flourish
+yeşil 0.019 green
+yeşil-elma -0.02 green_apple
+yine 0.067 again
+yirminci 0.149 twentieth
+yitirme -0.4
+yitirmek -0.48 lose
+yiyecek 0.054 food
+yoghurt 0.485 yoghurt 0.04 yogurt 0.93
+yok-etmek -0.4
+yokluk -0.4
+yoksul -0.4
+yoksun -0.4
+yol 0.067 way
+yolcu 0.085 passenger 0.085 traveller 0.085
+yollamak 0.102 send 0.102
+yollamamak -0.102
+yorgun -0.4
+yorgun -0.89 tired_person
+yorgunluk -0.76 tiredness
+yorulmak -0.76 tiredness
+yorulmamak 0.76
+youtube 0.082
+yoz -0.4
+yozlaş -0.4
+yoğurt 0.485 yoghurt 0.04 yogurt 0.93
+yukarı 0.889 up 0.889
+yumurta 0.069 egg 0.069
+yumuşak 0.076 soft
+yön 0.203 direction 0.203
+yönetici -0.05 manager -0.05
+yönetim 0.774 management
+yönlendirmek 0.828 steer
+yüce 0.6
+yüksek 0.085 high 0.085 tall 0.085
+yürek 0.48 heart 0.131 bravery 0.835
+yürekli 0.4
+yüreksiz -0.6
+yürümek -0.1 walk
+yürüyüş -0.1 walk -0.1
+yüz 0.679 face
+yüzeysel -0.4
+yüzmek 0.01 swim 0.061 skin -0.04
+yüzük 0.085 ring
+yıkamak -0.84 wash
+yıkamamak 0.84 wash
+yıl -0.74 year
+yılan -0.63 snake
+yıldız 0.831 star
+yıllık 0.7 annual
+yıprat -0.6
+yırtmak -0.085 rip -0.09 tear -0.08
+yırtmamak 0.085
+zafer 0.6
+zalim -0.8
+zam 0.115 raise
+zaman 0.861 time
+zannetmek -0.88 suppose -0.88
+zarafet 0.6
+zarar -0.6
+zararlı -0.4
+zararsız 0.4
+zarif 0.4
+zatürre -0.75 pneumonia -0.75
+zavallı -0.4
+zayıf -0.4
+zayıfla -0.4
+zehir -0.6
+zehirlemek -0.79 poison
+zehirlenmek -0.79
+zeka 0.2
+zeki 0.4
+zengin 0.91 rich
+zenginlik 0.4
+zevk 0.6
+zevkli 0.6
+zevksiz -0.6
+zevzek -0.4
+zihin 0.054 mind
+zirve 0.4
+ziyan -0.4
+zor -0.81 hard
+zorla -0.4
+zorlu -0.4
+zorluk -0.4
+zoruna-gitmek -0.4
+zorunda 0.841 obliged 0.841
+zorunlu 0.53 obligatory 0.745 compulsory 0.744 mandatory 0.13
+zorunluluk 0.074 obligation 0.055 necessity 0.092
+zulüm -0.8
+zzz -0.4
+zügürt -0.4
+zırh 0.069 armor
+zırva -0.6
+zırvalama -0.4
+zırvalık -0.6
+zıtlık -0.4
+çaba 0.037 effort
+çakma -0.31 fake 
+çalmak -0.096 steal -0.88 play 0.688
+çalmamak 0.096
+çalışan 0.032 worker
+çalışma 0.11 training 0.856 work -0.66 study 0.139
+çalışmak -0.66 work
+çalışmamak 0.66 
+çamaşır 0.881 laundry 0.881
+çamur -0.76 mud
+çamurlu -0.91 muddy -0.91
+çanta 0.037 bag
+çap 0.809 radius
+çare 0.74 cure
+çaresiz -0.6
+çarpmak -0.8 hit -0.85 multiply 0.041 crash -0.06
+çarpmamak 0.8
+çarpıcı 0.4
+çarpık -0.4
+çarpışma -0.4
+çatı 0.669 rooftop
+çatışma -0.4
+çay 0.092 tea
+çekici 0.4
+çekicilik 0.4
+çekilmez -0.6
+çekiç -0.05 hammer
+çekmek 0.45 pull 0.887 put_up 0.048
+çekmemek -0.45
+çelimsiz -0.4
+çelişki -0.4
+çetin -0.4
+çevirmek 0.112 translate 0.136 flip 0.069 rotate 0.13
+çevre 0.055 environment
+çevrimiçi 0.087 online
+çeşit 0.155 variety 0.155
+çeşitli -0.03 several
+çift 0.50 double 0.919 couple 0.067
+çikolata 0.084 chocolate
+çile -0.6
+çin -0.76 china
+çirkin -0.6
+çizim 0.077 drawing 0.077
+çizmek 0.084 draw 0.084
+çocuk 0.07 kid 0.094 child 0.048
+çorap 0.832 sock
+çukur -0.78 pit
+çöküntü -0.4
+çöküş -0.4
+çöp -0.6
+çöplük -0.6
+çözmek 0.44 solve 0.811 resolve 0.065
+çözmemek -0.44
+çözülmek 0.44 solve 0.811 resolve 0.065
+çözüm 0.048 solution 0.048
+çözümsüz -0.4
+çürük -0.08 decay -0.08
+çıkarmak -0.47 remove -0.24 extract -0.71
+çıkarmamak 0.47
+çıkartmak -0.47 remove -0.24 extract -0.71
+çıkartmamak -0.47 
+çıkmak 0.094 exit
+çıkmamak -0.094
+çılgın -0.4
+çığlık -0.8
+ödemek 0.802 pay
+ödev -0.13 homework
+ödül 0.6
+öfke -0.8
+öfkelen -0.8
+öfkeli -0.8
+öksürmek -0.09 cough
+öksüz -0.09 orphan
+öküz -0.78 ox -0.78
+öldürme -0.4
+öldürmek -0.95 kill -0.95
+öldürülme -0.8
+ölmek -0.17 die
+ölmemek 0.17
+ölçmek 0.053 measure
+ölüm -0.6
+ölümcül -0.6
+ölümsüz 0.6
+ömür 0.933 life
+ömür_boyu 0.949 lifelong 0.949
+ön -0.67 front
+öncelik 0.366 precedence 0.366
+önem 0.4
+önemli 0.85 important 0.821 crucial 0.873
+önemsiz -0.4
+öner 0.6
+öneren 0.637 proponent 0.637
+önermek 0.444 suggest 0.124 propose 0.763
+öngörmek -0.79 foresee
+öngörülmek -0.79 foresaw
+öngörülmemek 0.79
+önlem -0.81 precaution
+önlemek 0.148 prevent
+önyargı -0.6
+önyargısız 0.4
+öpme 0.6
+öpü 0.6
+örgüt 0.071 organization
+örnek 0.106 example 0.106
+örümcek -0.03 spider -0.03
+öv 0.6
+övünmek -0.73 brag -0.73
+özel 0.4
+özeleştiri -0.4
+özellikle 0.2
+özen 0.4
+özenli 0.4
+özensiz -0.4
+özenti -0.4
+özgü 0.4
+özgün 0.2
+özgür 0.4
+özgürlük 0.4
+özlem -0.4
+özlemek -0.4
+özlememek -0.4
+özür -0.4
+öğrenci 0.724 student
+öğrenmek 0.853 learn
+ücret 0.108 price 0.104 cost 0.112
+ücretsiz 0.875 for_free
+ülke 0.624 country
+ün 0.894 fame
+üniversite 0.845 university
+ünlü 0.77 famous
+üremek 0.055 reproduce 0.055
+üretim 0.098 production
+üretmek 0.185 produce
+ürkek -0.6
+ürkme -0.8
+ürkünç -0.8
+ürküt -0.8
+ürkütmek -0.94 scare
+ürper -0.4
+ürün 0.23 product 0.23
+üst 0.085 top
+üstün 0.6
+üstünkörü -0.4
+üvey -0.4
+üzeri -0.336 over 0.018 upper_surface -0.69
+üzgün -0.8
+üzmek -0.78 upset
+üzücü -0.8
+üzülmek -0.8
+üzüntü -0.8
+ılımlı 0.4
+ırk -0.92 racial
+ırkçı -0.4
+ıslanmak -0.91 get_wet
+ıslanmamak 0.91 get_wet -0.91
+ıspanak 0.858 spinach
+ısırmak 0.912 bite
+ızdırap -1.0
+ışık 0.037 light
+şahane 0.6
+şaheser 0.8
+şahıs 0.903 person 0.903
+şakacı 0.4
+şaklaban -0.4
+şampiyon 0.834 champion
+şampiyona 0.879 championship
+şan 0.4
+şanlı 0.4
+şans 0.6
+şanslı 0.4
+şansız -0.4
+şapka-çıkartmak 0.6
+şarap 0.043 wine 0.043
+şarj -0.76 charge_battery
+şarkı 0.027 song
+şaşkın -0.4
+şaşma -0.4
+şaşırm -0.4
+şaşırmak 0.509 surprise 0.66 surprised 0.358
+şaşırt 0.6
+şaşırtıcı 0.357 surprising
+şehir 0.104 city
+şeker 0.4
+şekerim 0.6
+şekil 0.572 figure 0.807 shape 0.816 form 0.092
+şekillenmek 0.816 shape 0.816
+şen 0.6
+şeref 0.4
+şeref-vermek 0.4
+şevk 0.6
+şeytan -0.6
+şiddet -0.8
+şiddetli -0.6
+şifre 0.083 password
+şikayet -0.4
+şirin 0.4
+şirinlik 0.6
+şirket 0.14 company
+şizofren -0.80 schizophrenic
+şişe -0.44 bottle
+şişirilmiş -0.4
+şoför 0.142 driver
+şort 0.77 shorts 0.77
+şube 0.049 branch 0.049
+şölen 0.4
+şükür 0.785 grace 0.793 gratitude 0.777
+şüphe -0.4
+şüphesiz 0.2
+şık 0.4
+şımart 0.4
+☕ 0.244
+✈️ 0.415
+❤️ 0.746
+🌱 0.571
+🌵 0.192
+🍊 0.417
+🍎 0.320
+🍏 0.067
+🍓 0.670
+🍷 0.393
+🎧 0.414
+🎬 0.279
+🏃 0.406
+🏃 0.406 
+🏆 0.726
+🐱 0.513
+🐶 0.576
+👗 0.235
+👠 0.356
+💖 0.712
+💙 0.730
+💚 0.656
+💛 0.709
+💜 0.654
+💩 -0.116
+💸 0.159
+😅 0.178
+😌 0.482
+😓 -0.080
+😖 -0.155
+😞 -0.118
+😠 -0.299
+😤 -0.209
+😭 -0.093
+😱 0.190
+🤐 -0.142
+☺️ 0.657
+♥️ 0.657
+⚘ 0.538
+✌ 0.463
+✌️ 0.463
+✌🏻 0.463
+🌍 0.592
+🌞 0.558
+🌸 0.650
+🌹 0.600
+🌼 0.779
+🍀 0.285
+🍬 0.364
+🎶 0.537
+🐈 0.294
+👉 0.390
+👋🏻 0.413
+💃 0.734
+💕 0.632 
+💪🏻 0.555
+😁 0.449
+😂 0.221
+😄 0.421
+😆 0.409
+😉 0.463
+😊 0.644
+😋 0.631
+😍 0.678
+😏 0.332
+😔 -0.146
+😘 0.701
+🙈 0.432
+🙋🏻‍♀️ 0.485
+🙏 0.417
+🚬 0.521
