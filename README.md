@@ -15,7 +15,7 @@ This dataset includes a total of 600 Turkish microblog texts, with two `.txt` fi
 **`ironic.txt`**
 * Contains 300 lines, each line having only one attribute, the sentence itself.
 * First 274 lines are in lexicographical order and do not have any Emoji’s.
-* Remaining 9 lines have Emoji’s and they are not specifically ordered.
+* Remaining 26 lines have Emoji’s and they are not specifically ordered.
 
 **`non-ironic.txt`**
 * Contains 300 lines, each line having only one attribute, the sentence.
@@ -39,4 +39,4 @@ First, you need to execute "data_prep.py" to convert your csv file into .tsv fil
 
 A.U.Ozturk, Y.Cemek, P.Karagoz, "IronyTR: Irony Detection in Turkish Informal Texts". (Under review)
 
-Y.Cemek, C. Cidecio, A.U.Ozturk, R.F.Cekinel, P.Karagoz, "Türkçe Resmi Olmayan Metinlerde İroni Tespiti için Sinirsel Yöntemlerin İncelenmesi (Investigating the Neural Models for Irony Detection on Turkish Informal Texts)",  in IEEE 28th Signal Processing and Communications Applications Conference (SIU), Apr 2020.
+Y.Cemek, C.Cidecio, A.U.Ozturk, R.F.Cekinel, P.Karagoz, "Türkçe Resmi Olmayan Metinlerde İroni Tespiti için Sinirsel Yöntemlerin İncelenmesi (Investigating the Neural Models for Irony Detection on Turkish Informal Texts)",  in IEEE 28th Signal Processing and Communications Applications Conference (SIU), Apr 2020.
