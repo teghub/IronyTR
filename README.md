@@ -15,12 +15,12 @@ This dataset includes a total of 600 Turkish microblog texts, with two `.txt` fi
 **`ironic.txt`**
 * Contains 300 lines, each line having only one attribute, the sentence itself.
 * First 274 lines are in lexicographical order and do not have any Emoji’s.
-* Remaining 26 lines have Emoji’s and they are not specifically ordered.
+* Remaining 7 lines have Emoji’s and they are not specifically ordered.
 
 **`non-ironic.txt`**
 * Contains 300 lines, each line having only one attribute, the sentence.
 * First 293 lines are in lexicographical order and do not have any Emoji’s.
-* Remaining 7 lines have Emoji’s and they are not specifically ordered.
+* Remaining 26 lines have Emoji’s and they are not specifically ordered.
 
 ## Implementations
 
