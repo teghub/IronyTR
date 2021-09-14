@@ -22,6 +22,17 @@ This dataset includes a total of 600 Turkish microblog texts, with two `.txt` fi
 * First 293 lines are in lexicographical order and do not have any Emoji’s.
 * Remaining 26 lines have Emoji’s and they are not specifically ordered.
 
+**`lookup.txt`**
+* Contains 2734 lines, each line having either an emoji, emoticon or word with its respective polarity score.
+* First 10 lines have emoticons
+* Next 2653 lines have Turkish words in lexicographical order.
+* Remaining 71 lines have Emoji’s and they are not specifically ordered.
+* Each line has a form of one of the following:
+     * (Turkish word) (Polarity score of [-1,1] for the word)
+          * `ışık 0.037 light`
+     * (Turkish word) (Avg. polarity score of [-1,1] for the word) ((English translation #n) (Polarity of [-1,1] for the translation #n))+
+          * `şekil 0.572 figure 0.807 shape 0.816 form 0.092`
+
 ## Implementations
 
 ### Traditional Methods
