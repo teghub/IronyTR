@@ -46,8 +46,28 @@ First, you need to execute "data_prep.py" to convert your csv file into .tsv fil
 
 **Acknowledgement:** We benefited from [this implementation](https://github.com/ThilinaRajapakse/pytorch-transformers-classification) while implementing BERT model. We modified the implementation to add weight freezing and 10-fold cross-validation features. You can refer to the paper for more information.
 
-# Citing: 
+## Citing: 
 
-A.U.Ozturk, Y.Cemek, P.Karagoz, "IronyTR: Irony Detection in Turkish Informal Texts". (Under review)
+```
+@article{ozturk2021ironytr,
+  title={IronyTR: Irony Detection in Turkish Informal Texts},
+  author={Ozturk, Asli Umay and Cemek, Yesim and Karagoz, Pinar},
+  journal={International Journal of Intelligent Information Technologies (IJIIT)},
+  volume={17},
+  number={4},
+  pages={1--18},
+  year={2021},
+  publisher={IGI Global}
+}
+```
 
-Y.Cemek, C.Cidecio, A.U.Ozturk, R.F.Cekinel, P.Karagoz, "Türkçe Resmi Olmayan Metinlerde İroni Tespiti için Sinirsel Yöntemlerin İncelenmesi (Investigating the Neural Models for Irony Detection on Turkish Informal Texts)",  in IEEE 28th Signal Processing and Communications Applications Conference (SIU), Apr 2020.
+```
+@inproceedings{cemek2020investigating,
+  title={Investigating the Neural Models for Irony Detection on Turkish Informal Texts},
+  author={Cemek, Ye{\c{s}}im and Cidecio, Cenk and {\"O}zt{\"u}rk, Asl{\i} Umay and {\c{C}}ekinel, Recep F{\i}rat and Karag{\"o}z, P{\i}nar},
+  booktitle={2020 28th Signal Processing and Communications Applications Conference (SIU)},
+  pages={1--4},
+  year={2020},
+  organization={IEEE}
+}
+```
